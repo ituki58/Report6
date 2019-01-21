@@ -3,7 +3,7 @@ package jp.ac.uryukyu.ie.e185716;
 import java.util.ArrayList;
 import java.util.List;
 
-//
+//盤面を扱うためのクラス
 public class Field{
     private List<Disc> Disclist;
     private int ynum = 0;
